@@ -1,5 +1,5 @@
 faicons==0.2.2
-shiny==1.1.0
+shiny==1.6.2
 shinywidgets==0.3.3
 plotly==5.24.1
 pandas==2.2.2
